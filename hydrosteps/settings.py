@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ecp7*-g0_501klun6gw&$x!f%^--6wck7l+x_g4s2x5g+5kpi_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['']
+ALLOWED_HOSTS = ['hydrosteps-backend.herokuapp.com']
 
 
 
